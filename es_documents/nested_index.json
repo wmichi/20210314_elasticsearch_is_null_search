@@ -1,15 +1,15 @@
 {"create":{"_index": "nested_index"}}
 { "parent_id": "1","parent_name": "sample_1","child_info": [{ "child_id": "11","child_name": "sample_11", "seq_no": 1,"int_value": 10},{ "child_id": "11","child_name": "sample_11", "seq_no": 2,"int_value": 10}]}
 {"create":{"_index": "nested_index"}}
-{ "parent_id": "2","parent_name": "sample_2", "child_info": [{ "child_id": "11","child_name": "sample_11", "seq_no": 1,"int_value": 20},{ "child_id": "11","child_name": "sample_11", "seq_no": 2,"int_value": 10}]}
+{ "parent_id": "2","parent_name": null, "child_info": [{ "child_id": "12","child_name": "sample_12", "seq_no": 1,"int_value": 20},{ "child_id": "22","child_name": "sample_22", "seq_no": 2,"int_value": 10}]}
 {"create":{"_index": "nested_index"}}
-{ "parent_id": "3","parent_name": "sample_3","child_info": [{ "child_id": "11","child_name": "sample_11", "seq_no": 1,"int_value": null},{ "child_id": "11","child_name": "sample_11", "seq_no": 2,"int_value": 10}]}
+{ "parent_id": "3","parent_name": "sample_3","child_info": [{ "child_id": "13","child_name": "sample_13", "seq_no": 1,"int_value": null},{ "child_id": "23","child_name": "sample_23", "seq_no": 2,"int_value": 10}]}
 {"create":{"_index": "nested_index"}}
-{ "parent_id": "4","parent_name": "sample_4","child_info": [{ "child_id": "11","child_name": "sample_11", "seq_no": 1,"int_value": 40},{ "child_id": "11","child_name": "sample_11", "seq_no": 2,"int_value": 10}]}
+{ "parent_id": "4","parent_name": "sample_4","child_info": [{ "child_id": "14","child_name": "sample_14", "seq_no": 1,"int_value": 40},{ "child_id": "24","child_name": "sample_24", "seq_no": 2,"int_value": 10}]}
 {"create":{"_index": "nested_index"}}
-{ "parent_id": "5","parent_name": "sample_5","child_info": [{ "child_id": "11","child_name": "sample_11", "seq_no": 1,"int_value": 50},{ "child_id": "11","child_name": "sample_11", "seq_no": 2,"int_value": 10}]}
+{ "parent_id": "5","parent_name": "sample_5","child_info": [{ "child_id": "15","child_name": "sample_15", "seq_no": 1,"int_value": 50},{ "child_id": "25","child_name": "sample_25", "seq_no": 2,"int_value": 10}]}
 {"create":{"_index": "nested_index"}}
-{ "parent_id": "6","parent_name": "sample_6","child_info": [{ "child_id": "11","child_name": "sample_11", "seq_no": 1,"int_value": null},{ "child_id": "11","child_name": "sample_11", "seq_no": 2,"int_value": 10}]}
+{ "parent_id": "6","parent_name": "sample_6","child_info": [{ "child_id": "16","child_name": "sample_16", "seq_no": 1,"int_value": null},{ "child_id": "26","child_name": "sample_26", "seq_no": 2,"int_value": 10}]}
 {"create":{"_index": "nested_index"}}
 { "parent_id": "7","parent_name": "sample_7","child_info": [{ "child_id": "11","child_name": "sample_11", "seq_no": 1,"int_value": 70},{ "child_id": "11","child_name": "sample_11", "seq_no": 2,"int_value": 10}]}
 {"create":{"_index": "nested_index"}}
