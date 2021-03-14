@@ -1,0 +1,12 @@
+{
+    "mappings":
+    {
+        "_routing": {"required": false},
+	    "properties":
+	    {
+	    	"id": {"type": "keyword"},
+	    	"name": {"type": "keyword"},
+	    	"int_value": {"type": "integer"}
+	    }
+    }
+}

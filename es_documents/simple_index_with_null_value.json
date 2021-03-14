@@ -1,0 +1,20 @@
+{"create":{"_index": "simple_index_with_null_value"}}
+{ "id": "1","name": "sample_1","int_value": 10}
+{"create":{"_index": "simple_index_with_null_value"}}
+{ "id": "2","name": null,"int_value": 20}
+{"create":{"_index": "simple_index_with_null_value"}}
+{ "id": "3","name": "sample_3","int_value": null}
+{"create":{"_index": "simple_index_with_null_value"}}
+{ "id": "4","name": "sample_4","int_value": 40}
+{"create":{"_index": "simple_index_with_null_value"}}
+{ "id": "5","name": "sample_5","int_value": 50}
+{"create":{"_index": "simple_index_with_null_value"}}
+{ "id": "6","name": "sample_6","int_value": null}
+{"create":{"_index": "simple_index_with_null_value"}}
+{ "id": "7","name": "sample_7","int_value": 70}
+{"create":{"_index": "simple_index_with_null_value"}}
+{ "id": "8","name": "sample_8"}
+{"create":{"_index": "simple_index_with_null_value"}}
+{ "id": "9","name": "sample_9","int_value": 90}
+{"create":{"_index": "simple_index_with_null_value"}}
+{ "id": "10","name": "sample_10","int_value": 100}

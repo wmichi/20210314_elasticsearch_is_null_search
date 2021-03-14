@@ -1,0 +1,20 @@
+{
+    "mappings":
+    {
+        "_routing": {"required": false},
+	    "properties":
+	    {
+	    	"parent_id": {"type": "keyword"},
+	    	"parent_name": {"type": "keyword"},
+	    	"child_info": {
+	    		"type": "nested",
+	    		"properties": {
+		    		"child_id": {"type": "keyword"},
+		    		"child_name": {"type": "keyword"},
+		    		"seq_no": {"type": "integer"},
+		    		"int_value": {"type": "integer"}
+	    		}
+	    	}
+	    }
+    }
+}

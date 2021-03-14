@@ -1,0 +1,20 @@
+{"create":{"_index": "nested_index"}}
+{ "parent_id": "1","parent_name": "sample_1","child_info": [{ "child_id": "11","child_name": "sample_11", "seq_no": 1,"int_value": 10},{ "child_id": "11","child_name": "sample_11", "seq_no": 2,"int_value": 10}]}
+{"create":{"_index": "nested_index"}}
+{ "parent_id": "2","parent_name": "sample_2", "child_info": [{ "child_id": "11","child_name": "sample_11", "seq_no": 1,"int_value": 20},{ "child_id": "11","child_name": "sample_11", "seq_no": 2,"int_value": 10}]}
+{"create":{"_index": "nested_index"}}
+{ "parent_id": "3","parent_name": "sample_3","child_info": [{ "child_id": "11","child_name": "sample_11", "seq_no": 1,"int_value": null},{ "child_id": "11","child_name": "sample_11", "seq_no": 2,"int_value": 10}]}
+{"create":{"_index": "nested_index"}}
+{ "parent_id": "4","parent_name": "sample_4","child_info": [{ "child_id": "11","child_name": "sample_11", "seq_no": 1,"int_value": 40},{ "child_id": "11","child_name": "sample_11", "seq_no": 2,"int_value": 10}]}
+{"create":{"_index": "nested_index"}}
+{ "parent_id": "5","parent_name": "sample_5","child_info": [{ "child_id": "11","child_name": "sample_11", "seq_no": 1,"int_value": 50},{ "child_id": "11","child_name": "sample_11", "seq_no": 2,"int_value": 10}]}
+{"create":{"_index": "nested_index"}}
+{ "parent_id": "6","parent_name": "sample_6","child_info": [{ "child_id": "11","child_name": "sample_11", "seq_no": 1,"int_value": null},{ "child_id": "11","child_name": "sample_11", "seq_no": 2,"int_value": 10}]}
+{"create":{"_index": "nested_index"}}
+{ "parent_id": "7","parent_name": "sample_7","child_info": [{ "child_id": "11","child_name": "sample_11", "seq_no": 1,"int_value": 70},{ "child_id": "11","child_name": "sample_11", "seq_no": 2,"int_value": 10}]}
+{"create":{"_index": "nested_index"}}
+{ "parent_id": "8","parent_name": "sample_8","child_info": [{ "child_id": "11","child_name": "sample_11", "seq_no": 1},{ "child_id": "11","child_name": "sample_11", "seq_no": 2,"int_value": 10}]}
+{"create":{"_index": "nested_index"}}
+{ "parent_id": "9","parent_name": "sample_9","child_info": [{ "child_id": "11","child_name": "sample_11", "seq_no": 1,"int_value": 90},{ "child_id": "11","child_name": "sample_11", "seq_no": 2,"int_value": 10}]}
+{"create":{"_index": "nested_index"}}
+{ "parent_id": "10","parent_name": "sample_10","child_info": [{ "child_id": "11","child_name": "sample_11", "seq_no": 1,"int_value": 10},{ "child_id": "11","child_name": "sample_11", "seq_no": 2,"int_value": 10}]}
